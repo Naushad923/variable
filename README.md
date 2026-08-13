@@ -114,10 +114,5 @@ When variable values are supplied in multiple places, Terraform resolves conflic
 ☁️ Azure CLI logged in using az login
 🔐 Azure Subscription configured for Terraform
 
-bash
-Initialize working directory
-terraform init
-Validate configuration
-terraform validate
 # Perform dry run
 terraform plan
