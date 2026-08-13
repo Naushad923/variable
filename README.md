@@ -12,6 +12,8 @@ variable/
 ├── terraform_tfvars/   # 📄 Variable loaded automatically from terraform.tfvars
 ├── var/                # 🚩 Variable passed using -var command line flag
 └── var_file/           # 📂 Variable passed using -var-file command line flag
+
+
 💡 Practice Examples Explained
 
 
